@@ -6,11 +6,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## ⚠️ Vulnerability Management Projects
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]*
 
-<hr/>
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
