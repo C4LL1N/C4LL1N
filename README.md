@@ -9,8 +9,8 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## 🚨 Threat Hunting and Security Operations
 
 
-## Other Profiles<img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20">
-[My Profile](https://tryhackme.com/p/callin)
+## Other Profiles
+<img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
 
 
 <!--
