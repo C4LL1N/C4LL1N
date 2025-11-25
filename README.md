@@ -7,7 +7,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
 
 ## 🚨 Threat Hunting and Security Operations
-[GEO-Visualization of Logs in EntraID/Azure AD](https://github.com/C4LL1N/kql-security-geo-visualizations)
+[GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
