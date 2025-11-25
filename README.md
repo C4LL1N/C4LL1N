@@ -1,4 +1,4 @@
-![tryhackme_logo_full](https://github.com/user-attachments/assets/6566631a-0f95-4647-bc53-4897d20d0909)# IT and Cybersecurity Project Portfolio 🔐
+# IT and Cybersecurity Project Portfolio 🔐
 
 I’m passionate about cybersecurity and enjoy taking on complex challenges through hands-on projects. From vulnerability management to threat detection, these initiatives let me explore the constantly evolving world of security. Feel free to take a look at my projects and see how I’ve worked to improve security operations and processes!
 
