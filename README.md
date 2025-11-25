@@ -10,7 +10,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 
 ## Other Profiles
-<img src="![try](https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6)" width="100" height="100">[My Profile](https://tryhackme.com/p/callin)
+<img src="![try](https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6)" width="50" height="50">[My Profile](https://tryhackme.com/p/callin)
 
 
 <!--
