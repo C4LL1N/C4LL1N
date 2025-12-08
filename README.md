@@ -9,7 +9,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## 🚨 Threat Hunting and Security Operations
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
-[Threat-Hunting-TOR-SCENARIO](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
+[Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
