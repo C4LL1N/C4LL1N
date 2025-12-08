@@ -8,6 +8,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 ## 🚨 Threat Hunting and Security Operations
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
+
 [Threat-Hunting-TOR-SCENARIO](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
 ## Other Profiles
