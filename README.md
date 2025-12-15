@@ -6,6 +6,8 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## ⚠️ Vulnerability Management Projects
 [Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
 
+[Vulnerability-Management-Identification-Methods](https://github.com/C4LL1N/Vulnerability-Management-Identification-Methods)
+
 ## 🚨 Threat Hunting and Security Operations
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
