@@ -11,6 +11,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [Vulnerability-Management-Analysis-Method](https://github.com/C4LL1N/Vulnerability-Management-Analysis-Method)
 
 [Vulnerability-Management-response-and-remediation-Methods](https://github.com/C4LL1N/Vulnerability-Management-Vulnerability-response-and-remediation-Methods)
+[Vulnerability-Management-Validation-of-Remediation](https://github.com/C4LL1N/Vulnerability-Management-Validation-of-Remediation)
 
 ## 🚨 Threat Hunting and Security Operations
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
