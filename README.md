@@ -20,6 +20,8 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
 [Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
+## Zarządzanie programem bezpieczeństwa i nadzór 
+[Zarządzanie programem bezpieczeństwa i nadzór](https://github.com/C4LL1N/Security-Program-Management-and-Oversight)
 
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
