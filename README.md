@@ -20,7 +20,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
 [Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
-## Zarządzanie programem bezpieczeństwa i nadzór 
+## 📋 Zarządzanie programem bezpieczeństwa i nadzór 
 [Zarządzanie programem bezpieczeństwa i nadzór](https://github.com/C4LL1N/Security-Program-Management-and-Oversight)
 
 ## Other Profiles
