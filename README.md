@@ -20,8 +20,9 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
 [Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
-## 📋 Security Program Management and Oversight
+## 📋 Security Program Management, Oversight and Architecture
 [Zarządzanie programem bezpieczeństwa i nadzór](https://github.com/C4LL1N/Security-Program-Management-and-Oversight)
+[ZT-Według-NIST](https://github.com/C4LL1N/Zero-Trust-Architecture)
 ## Solana Development
 [Bot](https://github.com/C4LL1N/SolanaPumpFunBot)
 ## Other Profiles
