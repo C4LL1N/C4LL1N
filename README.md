@@ -17,11 +17,13 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 [Vulnerability-Management-Reporting-Methods](https://github.com/C4LL1N/Vulnerability-Management-Reporting)
 
 ## 🚨 Threat/Scammer Hunting and Security Operations
+
+[SXSS_CSP_ByPass](https://github.com/C4LL1N/SXSS_CSPBypass/blob/main/README.md)
+
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
 [Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
-[SXSS_CSP_ByPass](https://github.com/C4LL1N/SXSS_CSPBypass/blob/main/README.md)
 ## 📋 Security Program Management, Oversight and Architecture
 
 [Zarządzanie programem bezpieczeństwa i nadzór](https://github.com/C4LL1N/Security-Program-Management-and-Oversight)
