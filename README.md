@@ -29,7 +29,8 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## Solana Development
 [Bot](https://github.com/C4LL1N/SolanaPumpFunBot)
 
-[SXSS_CSP_ByPAss](https://github.com/C4LL1N/SXSS_CSPBypass/blob/main/README.md)
+## CryptoScammer Hunting 
+[SXSS_CSP_ByPass](https://github.com/C4LL1N/SXSS_CSPBypass/blob/main/README.md)
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
 
