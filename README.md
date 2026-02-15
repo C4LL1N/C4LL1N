@@ -30,6 +30,9 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 [ZT-Według-NIST](https://github.com/C4LL1N/Zero-Trust-Architecture)
 
+## Playbooks for SOC L1:
+[Basic Playbooks for SOC L1](https://github.com/C4LL1N/soc-l1-playbooks)
+
 ## Solana Development
 [Bot](https://github.com/C4LL1N/SolanaPumpFunBot)
 
