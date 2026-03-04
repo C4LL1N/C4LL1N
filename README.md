@@ -6,16 +6,6 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## ⚠️ Vulnerability Management Theory and Projects
 [Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
 
-[Vulnerability-Management-Identification-Methods](https://github.com/C4LL1N/Vulnerability-Management-Identification-Methods)
-
-[Vulnerability-Management-Analysis-Methods](https://github.com/C4LL1N/Vulnerability-Management-Analysis-Method)
-
-[Vulnerability-Management-response-and-remediation-Methods](https://github.com/C4LL1N/Vulnerability-Management-Vulnerability-response-and-remediation-Methods)
-
-[Vulnerability-Management-Validation-of-Remediation-Methods](https://github.com/C4LL1N/Vulnerability-Management-Validation-of-Remediation)
-
-[Vulnerability-Management-Reporting-Methods](https://github.com/C4LL1N/Vulnerability-Management-Reporting)
-
 ## 🚨 Threat/Scammer Hunting and Security Operations
 
 [SXSS_CSP_ByPass](https://github.com/C4LL1N/SXSS_CSPBypass/blob/main/README.md)
@@ -24,17 +14,8 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 [Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
-## 📋 Security Program Management, Oversight and Architecture
-
-[Zarządzanie programem bezpieczeństwa i nadzór](https://github.com/C4LL1N/Security-Program-Management-and-Oversight)
-
-[ZT-Według-NIST](https://github.com/C4LL1N/Zero-Trust-Architecture)
-
 ## Playbooks for SOC L1:
 [Basic Playbooks for SOC L1](https://github.com/C4LL1N/soc-l1-playbooks)
-
-## Solana Development
-[Bot](https://github.com/C4LL1N/SolanaPumpFunBot)
 
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
