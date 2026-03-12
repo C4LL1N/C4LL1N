@@ -12,7 +12,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 [GEO-Visualization of Logs](https://github.com/C4LL1N/kql-security-geo-visualizations)
 
-[Threat-Hunting-TOR-Scenario](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
+[Threat-Hunting-TOR-Scenario-Microsoft-EDR-and-Sentinel](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
 ## Playbooks for SOC L1:
 [Basic Playbooks for SOC L1](https://github.com/C4LL1N/soc-l1-playbooks)
