@@ -3,8 +3,9 @@
 I’m passionate about cybersecurity and enjoy taking on complex challenges through hands-on projects. From vulnerability management to threat detection, these initiatives let me explore the constantly evolving world of security. Feel free to take a look at my projects and see how I’ve worked to improve security operations and processes!
 
 
-## ⚠️ Vulnerability Management Theory and Projects
-[Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
+## SOAR for SOC:
+
+[Header-Analyzer-BOT](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
 
 ## 🚨 Threat/Scammer Hunting and Security Operations
 
@@ -14,15 +15,15 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 [Threat-Hunting-TOR-Scenario-Microsoft-EDR-and-Sentinel](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
-## Playbooks for SOC L1:
-[Basic Playbooks for SOC L1](https://github.com/C4LL1N/soc-l1-playbooks)
-
 ## SIEM-Detection-LAB own architecture and detection rules
 [Wazuh+Suricata+Pfsense](https://github.com/C4LL1N/SIEM-Detection-Lab/blob/main/README.md)
 
-## SOAR for SOC:
+## ⚠️ Vulnerability Management Theory and Projects
+[Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
 
-[Header-Analyzer-BOT](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
+## Playbooks for SOC L1:
+[Basic Playbooks for SOC L1](https://github.com/C4LL1N/soc-l1-playbooks)
+
 
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
