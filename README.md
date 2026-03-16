@@ -20,6 +20,10 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 ## SIEM-Detection-LAB own architecture and detection rules
 [Wazuh+Suricata+Pfsense](https://github.com/C4LL1N/SIEM-Detection-Lab/blob/main/README.md)
 
+## SOAR for SOC:
+
+[Header-Analyzer-BOT](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
+
 ## Other Profiles
 <img src="https://github.com/user-attachments/assets/5af1587e-e9c5-4924-86d3-d7acb2de94b6" width="20" height="20"> [TryHackMe Profile](https://tryhackme.com/p/callin)
 
