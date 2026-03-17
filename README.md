@@ -5,7 +5,7 @@ I’m passionate about cybersecurity and enjoy taking on complex challenges thro
 
 ## SOAR for SOC:
 
-[Header-Analyzer-BOT](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
+[SOC-phishing-analyzer-bot](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
 
 ## 🚨 Threat/Scammer Hunting and Security Operations
 
