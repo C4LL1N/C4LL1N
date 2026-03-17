@@ -31,7 +31,7 @@ Frameworks: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 [Threat-Hunting-TOR-Scenario-Microsoft-EDR-and-Sentinel](https://github.com/C4LL1N/threat-hunting-TOR-EDITION/blob/main/README.md)
 
 ## SIEM-Detection-LAB own architecture and detection rules
-[Wazuh+Suricata+Pfsense](https://github.com/C4LL1N/SIEM-Detection-Lab/blob/main/README.md)
+[SOC homelab: Wazuh SIEM + Suricata IDS on pfSense + custom detection rules mapped to MITRE ATT&CK](https://github.com/C4LL1N/SIEM-Detection-Lab/blob/main/README.md)
 
 ## ⚠️ Vulnerability Management Theory and Projects
 [Vulnerability-Management-Program-Implementation](https://github.com/C4LL1N/Vulnerability-Management-Program-Implementation)
