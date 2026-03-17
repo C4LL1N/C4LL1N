@@ -2,6 +2,22 @@
 
 I’m passionate about cybersecurity and enjoy taking on complex challenges through hands-on projects. From vulnerability management to threat detection, these initiatives let me explore the constantly evolving world of security. Feel free to take a look at my projects and see how I’ve worked to improve security operations and processes!
 
+# IT and Cybersecurity Project Portfolio
+
+SOC Analyst | Blue Team | Detection Engineering
+
+## Certifications
+- CompTIA Security+ (SY0-701)
+- Fortinet NSE3
+- Cisco CCNA R&S
+
+## Core Skills
+SIEM: Wazuh, Sentinel, Elastic Security | IDS: Suricata | Firewall: pfSense
+EDR: Microsoft Defender for Endpoint (MDE)
+Scripting: Python, Bash, KQL | OS: Linux, Windows Server
+Frameworks: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
+
+## Projects
 
 ## SOAR for SOC:
 
