@@ -18,6 +18,10 @@ Frameworks: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 
 ## Projects
 
+## Malware Analysis:
+
+[Malware_analysis-Lab](https://github.com/C4LL1N/Malware-Analysis-Lab)
+
 ## SOAR for SOC:
 
 [SOC-phishing-analyzer-bot](https://github.com/C4LL1N/SOC-phising-analyzer-bot/blob/main/README.md)
