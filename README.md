@@ -16,7 +16,7 @@ Scripting: Python, Bash, KQL | OS: Linux, Windows Server
 
 Frameworks: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 
-## Projects
+# Projects
 
 ## Malware Analysis:
 
