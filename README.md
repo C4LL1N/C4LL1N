@@ -2,8 +2,6 @@
 
 I’m passionate about cybersecurity and enjoy taking on complex challenges through hands-on projects. From vulnerability management to threat detection, these initiatives let me explore the constantly evolving world of security. Feel free to take a look at my projects and see how I’ve worked to improve security operations and processes!
 
-# IT and Cybersecurity Project Portfolio
-
 SOC Analyst | Blue Team | Detection Engineering
 
 ## Core Skills
