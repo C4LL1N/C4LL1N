@@ -14,6 +14,13 @@ Scripting: Python, Bash, KQL | OS: Linux, Windows Server
 
 Frameworks: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 
+## Certifications
+- Blue Team Level 1 (BTL1)
+- CompTIA Security+ (SY0-701)
+- Fortinet NSE3
+- Cisco CCNA (course completed)
+- CompTIA CySA+ — exam scheduled September 2026
+
 # Projects
 
 ## Malware Analysis:
